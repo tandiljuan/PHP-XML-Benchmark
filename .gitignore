@@ -1,0 +1,5 @@
+# IDE / Text Editors backup files #
+###################################
+*.swp
+*.swo
+*~
