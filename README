@@ -1,0 +1,3 @@
+PHP XML Benchmark
+
+This are some simple PHP scripts, created to benchmark the creation, parse and validation (just structure) of an XML file.
